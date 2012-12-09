@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<tileset hex="true">
+	<world-name>Test</world-name>
+	<resource-file>Tileset3.png</resource-file>
+	<side-length>28<side-length>
+	
+	<tile name="void" index="2" indexLength="1" traversable="true" symbol="V" />
+	<tile name="ground" index="0" indexLength="1" traversable="true" symbol="#" />
+	<tile name="wall-outer-top" index="0" indexLength="1" traversable="false" symbol="-" />
+	<tile name="wall-outer-right" index="0" indexLength="1" traversable="false" symbol="/" />
+	<tile name="wall-outer-bottom" index="0" indexLength="1" traversable="false" symbol="_" />
+	<tile name="wall-outer-left" index="0" indexLength="1" traversable="false" symbol="\" />
+	<tile name="wall-outer-upper-right-corner" index="0" indexLength="1" traversable="false" symbol="^" />
+	<tile name="wall-outer-lower-right-corner" index="0" indexLength="1" traversable="false" symbol="*" />
+	<tile name="wall-outer-lower-left-corner" index="0" indexLength="1" traversable="false" symbol=")" />
+
+</tileset>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<tileset hex="true">
+	<world-name>Test</world-name>
+	<resource-file>OfficeTiles.png</resource-file>
+	<width>48</width>
+	<height>54</height>
+	
+	<tile name="void" index="3" indexLength="1" traversable="false" symbol="V" />
+	<tile name="ground" index="0" indexLength="1" traversable="true" symbol="#" />
+	<tile name="wall-outer-top" index="0" indexLength="1" traversable="true" symbol="-" />
+	<tile name="wall-outer-right" index="0" indexLength="1" traversable="true" symbol="/" />
+	<tile name="wall-outer-bottom" index="0" indexLength="1" traversable="true" symbol="_" />
+	<tile name="wall-outer-left" index="0" indexLength="1" traversable="true" symbol="\" />
+	<tile name="wall-outer-upper-right-corner" index="0" indexLength="1" traversable="true" symbol="^" />
+	<tile name="wall-outer-lower-right-corner" index="0" indexLength="1" traversable="true" symbol="*" />
+	<tile name="wall-outer-lower-left-corner" index="1" indexLength="1" traversable="true" symbol=")" />
+
+</tileset>

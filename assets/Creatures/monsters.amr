@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<creatures>
+	<world-name>Test</world-name>
+	<resource-file>sentry.png</resource-file>
+	<width>48</width>
+	<height>20</height>
+	<creature lifeMeter="1" name="skeleton" ai="false" index="0" indexLength="1"/>
+</creatures>

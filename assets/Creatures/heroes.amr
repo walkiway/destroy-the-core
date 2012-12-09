@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<creatures>
+	<world-name>Test</world-name>
+	<resource-file>ranger.png</resource-file>
+	<width>48</width>
+	<height>47</height>
+	<creature lifeMeter="5" maxLifeMeter="5" name="hero" ai="false" index="0" indexLength="1"/>
+</creatures>
